@@ -1,0 +1,12 @@
+.vs/
+Core/Debug/
+Core/x64/Debug/Entity.obj
+Core/x64/
+CSharpConsole/bin/Debug/net5.0/CSharpConsole.deps.json
+CSharpConsole/bin/
+CSharpConsole/obj/
+Wrapper/Debug/
+Wrapper/x64/
+x64/
+Wrapper/CppCli.vcxproj.user
+*.user
